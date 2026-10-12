@@ -6,7 +6,7 @@ Responsive static website based on the supplied Shaz Wellness Spa flyer designs.
 Open `index.html` in a modern browser. The site uses local image assets in `assets/` and Google Fonts (internet connection needed for those fonts; system fallbacks are included).
 
 ## Publish
-Upload `index.html` and the `assets/` folder to any static web host such as Netlify, GitHub Pages, Cloudflare Pages, or your existing hosting provider.
+The site is hosted on GitHub Pages at https://mominsamir.github.io/shaz-wellness-website/ — pushing to the `main` branch redeploys it automatically. It can also be uploaded to any other static host (Netlify, Cloudflare Pages, etc.) as-is.
 
 ## Included
 - Responsive desktop and mobile layouts
